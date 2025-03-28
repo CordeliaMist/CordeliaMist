@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Adobe%20InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white"/> -->
 <!-- Web Development -->
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
