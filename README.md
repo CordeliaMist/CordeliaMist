@@ -9,7 +9,7 @@
  <img src="https://badges.pufler.dev/visits/CordeliaMist/CordeliaMist"/> 
  <img src="https://badges.pufler.dev/years/CordeliaMist"/>
  <img src="https://badges.pufler.dev/repos/CordeliaMist"/>
-  <img src="https://badges.pufler.dev/commits/all/CordeliaMist"/>
+ <img src="https://badges.pufler.dev/commits/all/CordeliaMist"/>
 
 </p>
 
@@ -22,7 +22,7 @@
 <p align="center">
   Recently, I’ve branched out from working solely on personal projects and started contributing to other repositories. This journey has helped me broaden my skillset, hone my reverse engineering skills, improve my understanding of pull requests and workflows, and deepen my knowledge of Git in a collaborative environment. </p>
 
-<h2 align="center">Tech Stack Experience</h2>
+<h2 align="center">Tech Knowledge</h2>
 
 <p align="center">
 <!-- Adobe Tools -->
@@ -58,6 +58,15 @@
 <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 </p>
+
+
+## Highlighted Project Contributions
+<!-- Segment this by project, listing brief description of what you integrated -->
+[![Glamourer](https://github-readme-stats.vercel.app/api/pin/?username=Ottermandias&repo=Glamourer&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/alsiam/itasks)
+[![Moodles](https://github-readme-stats.vercel.app/api/pin/?username=kawaii&repo=Moodles&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/alsiam/urfolio)
+[![OrbWalker](https://github-readme-stats.vercel.app/api/pin/?username=PunishXIV&repo=Orbwalker&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/alsiam/web-projects)
+[![FFXIVClientStructs](https://github-readme-stats.vercel.app/api/pin/?username=aers&repo=FFXIVClientStructs&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/aers/FFXIVClientStructs)
+
 <hr>
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=CordeliaMist&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
