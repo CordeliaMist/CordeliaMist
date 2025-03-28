@@ -60,12 +60,22 @@
 </p>
 
 
-## Highlighted Project Contributions
-<!-- Segment this by project, listing brief description of what you integrated -->
-[![Glamourer](https://github-readme-stats.vercel.app/api/pin/?username=Ottermandias&repo=Glamourer&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/alsiam/itasks)
-[![Moodles](https://github-readme-stats.vercel.app/api/pin/?username=kawaii&repo=Moodles&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/alsiam/urfolio)
-[![OrbWalker](https://github-readme-stats.vercel.app/api/pin/?username=PunishXIV&repo=Orbwalker&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/alsiam/web-projects)
-[![FFXIVClientStructs](https://github-readme-stats.vercel.app/api/pin/?username=aers&repo=FFXIVClientStructs&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366)](https://github.com/aers/FFXIVClientStructs)
+<h2 align="center">Highlighted Project Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/Ottermandias/Glamourer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ottermandias&repo=Glamourer&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Glamourer Repo">
+  </a>
+  <a href="https://github.com/kawaii/Moodles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii&repo=Moodles&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Moodles Repo">
+  </a>
+  <a href="https://github.com/PunishXIV/Orbwalker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunishXIV&repo=Orbwalker&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="OrbWalker Repo">
+  </a>
+  <a href="https://github.com/aers/FFXIVClientStructs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aers&repo=FFXIVClientStructs&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="FFXIVClientStructs Repo">
+  </a>
+</p>
 
 <hr>
 <p align = "center">
