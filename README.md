@@ -9,6 +9,7 @@
  <img src="https://badges.pufler.dev/visits/CordeliaMist/CordeliaMist"/> 
  <img src="https://badges.pufler.dev/years/CordeliaMist"/>
  <img src="https://badges.pufler.dev/repos/CordeliaMist"/>
+  <img src="https://badges.pufler.dev/commits/all/CordeliaMist"/>
 
 </p>
 
@@ -59,4 +60,5 @@
 </p>
 <hr>
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CordeliaMist&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  /></p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=CordeliaMist&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+</p> 
