@@ -68,7 +68,6 @@
  <strong>Glamourer:</strong>
  <p>Studied the plugin framework's complexity and implemented additional features to integrate smoothly with the existing architecture, ensuring compatibility with the framework's conventions and structure.</p>
 </p>
- <br>
 <p>
  <a href="https://github.com/kawaii/Moodles">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii&repo=Moodles&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Moodles Repo" style="display: inline-block; margin-right: 15px;">
