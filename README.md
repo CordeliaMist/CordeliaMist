@@ -5,12 +5,9 @@
 <img src="https://github.com/CordeliaMist/CordeliaMist/blob/main/profile-banner.png" />
 
 <p align="center">
- 
- <img src="https://badges.pufler.dev/visits/CordeliaMist/CordeliaMist"/> 
  <img src="https://badges.pufler.dev/years/CordeliaMist"/>
  <img src="https://badges.pufler.dev/repos/CordeliaMist"/>
  <img src="https://badges.pufler.dev/commits/all/CordeliaMist"/>
-
 </p>
 
 <p align="center"> 
