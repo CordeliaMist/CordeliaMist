@@ -61,22 +61,40 @@
 
 <h2 align="center">Highlighted Project Contributions</h2>
 
-<p align="center">
-  <a href="https://github.com/Ottermandias/Glamourer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ottermandias&repo=Glamourer&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Glamourer Repo">
-  </a>
-  <a href="https://github.com/kawaii/Moodles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii&repo=Moodles&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Moodles Repo">
-  </a>
-  <a href="https://github.com/PunishXIV/Orbwalker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PunishXIV&repo=Orbwalker&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="OrbWalker Repo">
-  </a>
-  <a href="https://github.com/aers/FFXIVClientStructs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aers&repo=FFXIVClientStructs&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="FFXIVClientStructs Repo">
-  </a>
+<p>
+ <a href="https://github.com/Ottermandias/Glamourer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ottermandias&repo=Glamourer&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Glamourer Repo" style="display: inline-block; margin-right: 15px;">
+ </a>
+ <strong>Glamourer:</strong>
+ <p>Studied the plugin framework's complexity and implemented additional features to integrate smoothly with the existing architecture, ensuring compatibility with the framework's conventions and structure.</p>
+</p>
+ <br>
+<p>
+ <a href="https://github.com/kawaii/Moodles">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kawaii&repo=Moodles&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Moodles Repo" style="display: inline-block; margin-right: 15px;">
+ </a>
+ <strong>Moodles:</strong>
+ <p>Designed and implemented an API structure for third-party integration, improving modularity and facilitating effective communication between internal and external components.</p>
+</p>
+ <br>
+<p>
+ <a href="https://github.com/PunishXIV/Orbwalker">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PunishXIV&repo=Orbwalker&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="OrbWalker Repo" style="display: inline-block; margin-right: 15px;">
+ </a>
+ <strong>OrbWalker:</strong>
+ <p>Reverse-engineered binary data to analyze a previously unknown struct, creating a dynamic object that enabled precise control and enhanced user movements</p>
+ <br>
 </p>
 
-<hr>
+<p>
+ <a href="https://github.com/aers/FFXIVClientStructs">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aers&repo=FFXIVClientStructs&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="FFXIVClientStructs Repo" style="display: inline-block; margin-right: 15px;">
+ </a>
+ <strong>FFXIVClientStructs:</strong>
+ <p>Reverse-engineered a network packet structure from the game engine and contributed new functions to expand the project's capabilities for similar system development.</p>
+ <br>
+</p>
+<p><hr></p>
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=CordeliaMist&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=omni&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 </p> 
