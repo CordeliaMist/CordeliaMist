@@ -3,13 +3,6 @@
  
 </p align="center">
 <img src="https://github.com/CordeliaMist/CordeliaMist/blob/main/profile-banner.png" />
-
-<p align="center">
- <img src="https://badges.pufler.dev/years/CordeliaMist"/>
- <img src="https://badges.pufler.dev/repos/CordeliaMist"/>
- <img src="https://badges.pufler.dev/commits/all/CordeliaMist"/>
-</p>
-
 <p align="center"> 
   Hi there! I'm a passionate and aspiring programmer with a love for tackling the impossible and exploring uncharted territories. I take pride in finding solutions to problems deemed unsolvable and uncovering answers to questions others couldn't crack—then sharing those solutions with the community.
 </p>
@@ -55,9 +48,16 @@
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 </p>
 
+<h2 align="center">Personal Projects</h2>
+<p>
+ <a href="https://github.com/CordeliaMist/CkCommons">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=CordeliaMist&repo=CkCommons&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="CkCommons Repo" style="display: inline-block; margin-right: 15px;">
+ </a>
+ <strong>CkCommons:</strong>
+ <p>A common library for Dalamud plugins, offering ImGui C# extensions, stylized wrappers, custom widgets, and utility functions. Designed to add visual polish and usability without compromising performance, thanks to carefully optimized code.</p>
+</p>
 
 <h2 align="center">Highlighted Project Contributions</h2>
-
 <p>
  <a href="https://github.com/Ottermandias/Glamourer">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Ottermandias&repo=Glamourer&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="Glamourer Repo" style="display: inline-block; margin-right: 15px;">
@@ -72,16 +72,6 @@
  <strong>Moodles:</strong>
  <p>Designed and implemented an API structure for third-party integration, improving modularity and facilitating effective communication between internal and external components.</p>
 </p>
- <br>
-<p>
- <a href="https://github.com/PunishXIV/Orbwalker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=PunishXIV&repo=Orbwalker&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="OrbWalker Repo" style="display: inline-block; margin-right: 15px;">
- </a>
- <strong>OrbWalker:</strong>
- <p>Reverse-engineered binary data to analyze a previously unknown struct, creating a dynamic object that enabled precise control and enhanced user movements</p>
- <br>
-</p>
-
 <p>
  <a href="https://github.com/aers/FFXIVClientStructs">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aers&repo=FFXIVClientStructs&border_color=FF3366&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=FF3366" alt="FFXIVClientStructs Repo" style="display: inline-block; margin-right: 15px;">
